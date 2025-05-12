@@ -31,7 +31,7 @@
 3.  **アカウントを追加する**
     -   統合版アカウントを押してブラウザでログインする
     -   (必要であれば日本語に設定する)
-        ![image1](images\image1.png)
+        ![image1](https://github.com/IQminecraft/how_to_download_a_map_from_bedrock_servers/blob/main/images/image1.png)
 4.  **詳細設定**
     -   「パケットの変換エラーを無視」「リソースパックを受け入れたと偽装する」にチェックを入れる
 
@@ -63,7 +63,7 @@
 2.  **サーバーに参加した後、目的のマップに移動**
 3.  **ESCを押してWorldToolsを選択**
     -   上の欄に名前を入力して「start download」を押す
-        ![image2](images\image2.png)
+        ![image2](https://github.com/IQminecraft/how_to_download_a_map_from_bedrock_servers/blob/main/images/image2.png)
 4.  **ダウンロードしたいすべてのチャンクが読み込まれるように動く**
 5.  **すべて読み込めたらESCを押して「save capture of {名前}」を押す**
 6.  **シングルワールドで先程ダウンロードしたワールドを読み込む**
@@ -75,7 +75,7 @@
 2.  **他のフォルダを選択で先ほどダウンロードしたワールドを開く**
 3.  **開始を選択**
 4.  **mcworld形式で保存を選択**
-    ![image3](images\image3.png)
+    ![image3](https://github.com/IQminecraft/how_to_download_a_map_from_bedrock_servers/blob/main/images/image3.png)
 
 ### 6. 統合版でワールドを読み込む
 1.  **mcworldを開いてワールドを読み込む（または展開してワールドフォルダにコピー）**
