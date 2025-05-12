@@ -30,7 +30,6 @@
     -   If it doesn't open, try using a .bat file.
 3.  **Add an Account**
     -   Click on "Bedrock Account" and log in via your browser.
-    -   (Set to Japanese if necessary)
         ![image1](https://github.com/IQminecraft/how_to_download_a_map_from_bedrock_servers/blob/main/images/image1.png)
 4.  **Detailed Settings**
     -   Check "Ignore packet conversion errors" and "Fake resource pack acceptance".
